@@ -1,0 +1,12 @@
+path - ./ ../;
+
+./ - tuhain file bga folder luu handana...
+../ - omnoh folder luu handah
+
+./images/bleh.png
+
+html5
+html4
+self closing tag - <img src="path to img"> <br/>
+
+share.hiub.mn

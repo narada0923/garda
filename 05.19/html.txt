@@ -1,0 +1,26 @@
+1. web site n html file-uudiin tsugluulga.
+2. html n document file;
+3. html file n html taguudaas burdene.
+    1. html - base tag
+    2. head - 
+    3. body
+
+/ - slash;
+\ - back slash;
+" - quotation mark;
+` - back tic;
+
+<tagNer>content</tagNer>
+
+parent element
+child element
+sibling element
+
+<etsegTag>
+    <child>
+        <child></child>
+        <child></child>
+        <child></child>
+        <child></child>
+    </child>
+</etsegTag>

@@ -1,0 +1,4 @@
+./  =====> another
+../../  =====> 05.24
+../route/  ======> route
+../../images/bleh.png
